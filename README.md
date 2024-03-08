@@ -33,4 +33,5 @@ While pressing CTRL+ALT+SHIFT or ALT-GR+SHIFT:
 1. Install Microsoft Keyboard Layout Creation (MKLC), download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 2. Download the desired layout files and open them in MKLC.
 3. Click on `Project > Build DLL and Setup Package`
+
 ![mklc_build_setup](https://github.com/MBonalumi/italian-keyboard-layout-for-us-intl-keyboard/assets/61749282/21c63b5b-511d-4892-9760-30c7ce1d6b5e)
